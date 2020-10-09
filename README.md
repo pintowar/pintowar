@@ -57,7 +57,80 @@ My name is **Thiago Oliveira**, an experienced **Software Engineer** from Brazil
 <details>	
   <summary><b>⚡ Development Stats</b></summary>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 76 Contributions in the Year 2020
+ > 
+> 📦 163.6 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 35 Public Repositories
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
+🌆 Daytime    499 commits    █████████████░░░░░░░░░░░░   54.65% 
+🌃 Evening    227 commits    ██████░░░░░░░░░░░░░░░░░░░   24.86% 
+🌙 Night      50 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.48%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       217 commits    ██████░░░░░░░░░░░░░░░░░░░   23.77% 
+Tuesday      145 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
+Wednesday    170 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.62% 
+Thursday     164 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.96% 
+Friday       152 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.65% 
+Saturday     43 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.71% 
+Sunday       22 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Fortaleza
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Groovy** 
+
+```text
+Groovy                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24% 
+Java                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24% 
+Ruby                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/pintowar/pintowar/blob/master/charts/bar_graph.png) 
+
+
+<!--END_SECTION:waka-->
 </details>
 
 <details>	
