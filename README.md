@@ -20,6 +20,16 @@
 
 My name is **Thiago Oliveira**, an experienced **Software Engineer** from Brazil. During my carrer I've been working with **Distributed Systems**, **Data Analysis** and **DevOps**. I am also a great enthusiast of **Machine Learning** and **Discrete Optimization**. I am always looking for knowledge and generating value through technology.
 
+### Talking about Personal Stuffs:
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+- 👨🏽‍💻 I’m currently working on something cool;
+- 🌱 I’m currently learning Deep Learning and Reinforcement Learning; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@pintowar](https://twitter.com/pintowar);
+- 📝[LinkedIn](https://www.linkedin.com/in/thiagooliveira81/)
+
 ### Languages and Tools:
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -45,7 +55,13 @@ My name is **Thiago Oliveira**, an experienced **Software Engineer** from Brazil
 ### Projects and Dev Stuffs:
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>⚡ Development Stats</b></summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+
+<details>	
+  <summary><b>⚡ GitHub Stats</b></summary>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pintowar&show_icons=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintowar&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
