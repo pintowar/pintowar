@@ -82,10 +82,10 @@ My name is **Thiago Oliveira**, an experienced **Software Engineer** from Brazil
 
 ```text
 Monday       216 commits    █████░░░░░░░░░░░░░░░░░░░░   23.25% 
-Tuesday      154 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.58% 
-Wednesday    175 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.84% 
-Thursday     167 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.98% 
-Friday       154 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.58% 
+Tuesday      151 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
+Wednesday    177 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+Thursday     169 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.19% 
+Friday       153 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
 Saturday     41 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.41% 
 Sunday       22 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37%
 
