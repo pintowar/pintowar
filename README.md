@@ -65,9 +65,9 @@ My name is **Thiago Oliveira**, an experienced **Software Engineer** from Brazil
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 33 Public Repositories
+> 📜 33 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+33 Private Repository 
  > 
 **I'm an Early 🐤** 
 
