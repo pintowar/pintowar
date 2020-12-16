@@ -67,7 +67,7 @@ My name is **Thiago Oliveira**, an experienced **Software Engineer** from Brazil
  > 
 > 📜 33 Public Repositories 
  > 
-33 Private Repository 
+> 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
