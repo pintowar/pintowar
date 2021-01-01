@@ -59,7 +59,7 @@ My name is **Thiago Oliveira**, an experienced **Software Engineer** from Brazil
   <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 77 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 164.6 kB Used in Github's Storage 
  > 
