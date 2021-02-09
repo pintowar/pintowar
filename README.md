@@ -61,7 +61,7 @@ My name is **Thiago Oliveira**, an experienced **Software Engineer** from Brazil
 
 > 🏆 0 Contributions in the Year 2021
  > 
-> 📦 165.1 kB Used in Github's Storage 
+> 📦 165.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
